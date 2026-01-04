@@ -1,5 +1,4 @@
 # PubMed Paper Fetcher
-
 Fetch PubMed research papers with non-academic (biotech/pharma) authors.
 
 ## 🚀 Features
@@ -109,3 +108,4 @@ For issues or contributions, feel free to open an issue or PR on GitHub.
 ## 💡 Credits
 
 Developed by [Your Name]. Uses BioPython, Entrez, pandas, and regex for extraction.
+
